@@ -1,0 +1,1 @@
+<h1>This view is handled form controller {{$name}}</h1>
